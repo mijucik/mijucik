@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "cacaa629a10a502e",
+    "type": "split",
+    "children": [
+      {
+        "id": "463158e1d1cdc69a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project Sophist.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ed6046771ce5dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb85ada7f1cfc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "001ff07eb0e55a86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef9352bc69633dd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fca1e30abbca877",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d2e42fbf24e1d38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac4f4f1f3a330a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Sophist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "463158e1d1cdc69a",
+  "lastOpenFiles": [
+    "Project Sophist.md"
+  ]
+}
